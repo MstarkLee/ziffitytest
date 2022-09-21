@@ -1,0 +1,7 @@
+.detailsRow {
+  display: flex;
+}
+
+.detailsCol {
+  width: 50%;
+}
